@@ -10,4 +10,4 @@ The movement inputs are computed twice
 I couldn't get the SLD inputs to work, so the game is controlled via zqsd in console
 
 
-The console display broke too at some point, you will find the actual positions of the actor in map.jpg
+The console display broke too at some point, you will find the actual positions of the actor in map.png
