@@ -11,3 +11,6 @@ I couldn't get the SLD inputs to work, so the game is controlled via zqsd in con
 
 
 The console display broke too at some point, you will find the actual positions of the actor in map.png
+
+
+I'm very sorry of the state I'm delivering this, but I'm stuck.
